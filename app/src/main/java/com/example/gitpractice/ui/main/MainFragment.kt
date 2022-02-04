@@ -11,6 +11,9 @@ import com.example.gitpractice.R
 class MainFragment : Fragment() {
 
     companion object {
+        /**
+         * This method creates a new instance of MainFragment
+         */
         fun newInstance() = MainFragment()
     }
 
